@@ -1,0 +1,28 @@
+
+ body {
+    background-color: rgb(236, 225, 211);
+ }
+ 
+ #title,
+ #links { 
+    color: white;
+    text-align: center;
+ }
+
+ #title{
+    background-color: rgb(187, 183, 183);
+ }
+
+ .name {
+    text-align: center;
+    background-color: rgb(202, 201, 201);
+
+ }
+
+  .image{
+    text-align: center;
+  }
+
+  
+
+ 
